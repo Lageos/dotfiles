@@ -34,3 +34,7 @@
 
 * list serial ports: ll /sys/class/tty/ttyUSB*
 * open serial port: sudo screen /dev/ttyUSB0 115200
+
+## zsh
+autosuggestions --> finishe with right arrow key
+autocomplete --> tab
