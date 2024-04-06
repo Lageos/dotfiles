@@ -124,8 +124,5 @@ else
 fi
 unset __conda_setup
 # <<< conda initialize <<<
-conda deactivate
 # deactivate auto conda startup:
-#export CONDA_AUTO_ACTIVATE_BASE=false
-
-
+conda deactivate
